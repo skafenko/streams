@@ -1,6 +1,8 @@
 
-Osquid:S1612",Replace this lambda with a method reference.(Í±Á€úÿÿÿÿ8ïŒíª‘-
-Vsquid:S1118":Add a private constructor to hide the implicit public one.(êÇ©»øÿÿÿÿ
-rsquid:S1488
-"[Immediately return this expression instead of assigning it to the temporary variable "res".(ËÃ¦
-zsquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "intArr".(¶ä¥Öøÿÿÿÿ
+\
+java:S1118":Add a private constructor to hide the implicit public one.(êÇ©»øÿÿÿÿ8ÅÌúÅô.
+x
+java:S1488
+"[Immediately return this expression instead of assigning it to the temporary variable "res".(ËÃ¦8ÅÌúÅô.
+€
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "intArr".(¶ä¥Öøÿÿÿÿ8ÅÌúÅô.

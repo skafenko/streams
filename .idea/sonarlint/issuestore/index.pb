@@ -19,3 +19,5 @@ c
 3src/test/java/ua/procamp/streams/StreamAppTest.java,8\5\8549082c88f4eeefdabeeec59846e6acefd911f8
 f
 6src/main/java/ua/procamp/streams/stream/Generator.java,7\e\7efec3de2c7a2162d948a7caad615eab2e7436bc
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
